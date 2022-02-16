@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains introduction, and development of biomolecular
   materials,
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-010j-introduction-to-bioengineering-be-010j-spring-2006/952ef436c0603e7fac9f7c5c49310276_3belcher.pdf
+file: /media/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/952ef436c0603e7fac9f7c5c49310276_3belcher.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 3belcher.pdf
 uid: 952ef436-c060-3e7f-ac9f-7c5c49310276
