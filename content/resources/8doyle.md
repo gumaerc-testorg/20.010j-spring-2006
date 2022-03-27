@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bc84a3ad-2061-b159-c53d-d141652d8c56
 resourcetype: Document
 title: 8doyle.pdf
 uid: b4519a57-7bfe-67a3-5758-27d72a2e5817

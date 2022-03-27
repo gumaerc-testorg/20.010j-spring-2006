@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c3a23786-c964-23a5-0c8f-1a93625ef52e
 resourcetype: Document
 title: wang_paper_final.pdf
 uid: 8b8dd991-9f76-7256-e515-12147ff9e541
