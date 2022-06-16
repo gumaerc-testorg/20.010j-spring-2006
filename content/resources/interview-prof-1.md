@@ -26,3 +26,6 @@ video_metadata:
 
 Prof. Linda Griffith  
 (In making devices with precise three-dimensional structure, as shown in Linda Griffith's video, she used TheriForm technology, which is available commercially from Therics, Inc., in Princeton, NJ.)
+
+
+

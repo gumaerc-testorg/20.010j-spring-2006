@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section contains video interviews of a selection of faculty from
+  the Biological Engineering Department at MIT.
 is_media_gallery: true
 learning_resource_types:
 - Videos
