@@ -6,6 +6,7 @@ file: /courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/394249
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 10gifford.pdf
 uid: 3942492e-b606-c644-8082-cffb33434ca4
 ---
 This resource contains introduction, machine learning, expression profiling using DNA microarray technology, and gifford lab: computational genomics.
-

@@ -6,6 +6,7 @@ file: /courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/8ab910
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 4griffith.pdf
 uid: 8ab91053-b099-2d47-adb7-701e8a5ebf85
 ---
 This resource contains introduction, SB in biological engineering, and biological engineering vs. biomedical engineering.
-

@@ -6,6 +6,7 @@ file: /courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/fb0e76
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 1lauffenburger.pdf
 uid: fb0e7645-dc00-a5ae-fbdf-fbb2ee1d87f0
 ---
 This resource contains introduction, engineering science and technology,and the biology/medicine-engineering landscape.
-
