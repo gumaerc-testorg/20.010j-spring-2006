@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains problems to test students understanding of course
+  material.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: c3a23786-c964-23a5-0c8f-1a93625ef52e
 ---
@@ -11,4 +16,4 @@ Describe how bioengineering approaches and methods of discovery, measurement, an
 Sample Student Work
 -------------------
 
-A Suitable Replacement Heart ([PDF]({{< baseurl >}}/resources/wang_paper_final)) (Courtesy of Jiao Wang. Used with permission.)
+A Suitable Replacement Heart ({{% resource_link 8b8dd991-9f76-7256-e515-12147ff9e541 "PDF" %}}) (Courtesy of Jiao Wang. Used with permission.)
