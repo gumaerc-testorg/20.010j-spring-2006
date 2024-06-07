@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains introduction, machine learning, expression profiling
   using DNA microarray technology, and gifford lab: computational genomics.'
 file: /courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/3942492eb606c6448082cffb33434ca4_10gifford.pdf
+file_size: 59405
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains introduction, faculty in electrical engineering
   (EE) with interest in bioengineering, and freeman: hearing research.'
 file: /courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/d03c438e1092b5d14a807950fd837ba7_6voldman.pdf
+file_size: 70225
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
