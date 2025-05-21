@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains statement of problem, historical background, and
   current techniques.
-file: /ol-ocw-studio-app/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/8b8dd9919f767256e51512147ff9e541_wang_paper_final.pdf
+file: /courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/8b8dd9919f767256e51512147ff9e541_wang_paper_final.pdf
 file_size: 84153
 file_type: application/pdf
 learning_resource_types:
