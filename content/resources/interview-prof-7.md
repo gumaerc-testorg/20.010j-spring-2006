@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 14021995
 learning_resource_types:
 - Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -18,7 +18,7 @@ start_time: ''
 title: 'Interview: Prof. Christine Ortiz'
 uid: 54db284d-0b34-e6a5-e52b-b6367836a238
 video_files:
-  archive_url: http://www.archive.org/download/MITBE.010JS05/ocw-be010-Ortiz-220k.mp4
+  archive_url: https://ia801307.us.archive.org/23/items/MITBE.010JS05/ocw-be010-Ortiz-220k_512kb.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/whdOtrwi0oM/default.jpg
   video_transcript_file: null
