@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/b4519a577bfe67a3575827d72a2e5817_8doyle.pdf
+file: /ol-ocw-studio-app/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/b4519a577bfe67a3575827d72a2e5817_8doyle.pdf
 file_size: 76584
 file_type: application/pdf
 learning_resource_types:

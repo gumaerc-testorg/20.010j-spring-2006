@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 15884369
 learning_resource_types:
 - Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -18,7 +18,7 @@ start_time: ''
 title: 'Interview: Prof. Kimberly Hamad-Schifferli'
 uid: 29a660cf-7231-b7a5-57d3-d27f8d7a8d96
 video_files:
-  archive_url: http://www.archive.org/download/MITBE.010JS05/ocw-be010-Hamad-Schifferli-220k.mp4
+  archive_url: https://ia801307.us.archive.org/23/items/MITBE.010JS05/ocw-be010-Hamad-Schifferli-220k_512kb.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/lsqFfbpXbSQ/default.jpg
   video_transcript_file: null
