@@ -2,7 +2,7 @@
 content_type: resource
 description: Thi9s resource contains introduction, overview of the ME major, job opportunities
   for mechanical engineers, and research groups at MIT.
-file: /courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/8e6d04263d04a7ba6e969b05ccc94af3_5kamm.pdf
+file: /ol-ocw-studio-app/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/8e6d04263d04a7ba6e969b05ccc94af3_5kamm.pdf
 file_size: 65443
 file_type: application/pdf
 learning_resource_types:

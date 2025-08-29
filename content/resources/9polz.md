@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains introduction, overview of the CEE major, and environmental
   microbiology.
-file: /courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/72824e50b5c6f484b9158041c6517ea5_9polz.pdf
+file: /ol-ocw-studio-app/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006/72824e50b5c6f484b9158041c6517ea5_9polz.pdf
 file_size: 73284
 file_type: application/pdf
 learning_resource_types:
